@@ -39,7 +39,7 @@ int main(int argc, char* argv[]){
                  << "this is done by using https://www.cryptocompare.com/ APIs and saving the data on a json file." << endl
                  << "To achive this, you must call the program, and passing it the crypto you want the data of," << endl 
                  << "also you need to pass the time interval you are interested in, m for minutes, h for hours, d for days" << endl << endl
-                 << "example --> ./crypto-fetcher BTC ETH m" << endl << endl
+                 << "example --> ./crypto-fetcher BTC EUR m" << endl << endl
                  << "This way you will obtain bitcoin/euros price updated once per minute" << endl
                  << "To get the full coin list, please visit: https://www.cryptocompare.com/api/data/coinlist/" << endl
                  << "Remember that cryptocompare lets you fetch the prices up to 'only' 6000 times per hour" << endl << endl
