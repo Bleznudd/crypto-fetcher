@@ -1,11 +1,11 @@
 # crypto-fetcher
-A simple tool designed to retrive prices and volumes of the most popular cryptocurrencies
+A simple tool designed to retrive prices of the most popular cryptocurrencies
 
 ## Description
-This tool simply let's you download the latest prices of the most popular cryptocurrencyes at different time intervals.
+This tool simply let's you download the latest prices of the most popular cryptocurrencies at different time intervals.
 Once that the program is started it will fetch the prices and the volumes of the currency you asked for, and put the data into a .json file
 
-For a list of all the avaiable currencyes, please click [here](https://www.cryptocompare.com/api/data/coinlist/)
+For a list of all the avaiable currencies, please click [here](https://www.cryptocompare.com/api/data/coinlist/)
 
 ## Installation
 Start by cloning this repository on your PC, open a terminal and
