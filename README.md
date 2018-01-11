@@ -36,3 +36,4 @@ Anyway, I'm not interested in making this program compatible with Windows, if it
 ## Manteinance
 This is a program made for personal purposes only, so it will not be manteined if I'm not interested in it anymore.
 Don't expect update and/or bugfix.
+
