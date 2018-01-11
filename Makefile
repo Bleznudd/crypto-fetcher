@@ -10,7 +10,7 @@ OBJECTS = main.o
 #ISTRUZIONI PER L'ESEGUIBILE
 all: $(OBJECTS)
 	 @echo -e "\033[1;34m"COSTRUZIONE DELL"'" ESEGUIBILE IN CORSO..." \033[0m"
-	 $(CXX) $(CFLAGS) $(OBJECTS) -o crypto-fecther
+	 $(CXX) $(CFLAGS) $(OBJECTS) -o crypto-fetcher
 	 @echo -e "\033[1;34m"ESEGUIBILE COSTRUITO" \033[0m"
 	 $(MAKE) clean
 	 @echo -e "\033[1;34m"COMPILAZIONE TERMINATA" \033[0m"
